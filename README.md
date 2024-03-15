@@ -1,5 +1,5 @@
 <h1 align="center"> Primeiro Commit </h1>
-<h3> #Comandos Git :hammer: </h3>
+<h3> #Comandos Git 👽 </h3>
 
  - ` 1. Git clone` : é um comando para baixar um projeto do repositório. É como fazer uma cópia do projeto no seu próprio computador para que você possa trabalhar nele. <br>
  - `2. Git branch`: As branches são importantes no Git para permitir trabalho paralelo em um projeto, e o comando "git branch" cria, lista e exclui branches.<br>
